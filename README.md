@@ -42,3 +42,7 @@ Inglés - Avanzado
 ###GitHub Stats###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alecdexxter&locale=es)](https://git.io/streak-stats)
+
+
+<img width="1080" height="737" alt="image" src="https://github.com/user-attachments/assets/fc0ba83d-f23c-4282-9a57-25b15b7acfd8" />
+
