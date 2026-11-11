@@ -1,10 +1,14 @@
-###SOBRE MÍ###
 <img width="564" height="544" alt="image" src="https://github.com/user-attachments/assets/e3039d91-7b6f-4f91-9e2f-a90c3bc1ca42" />
 
 
-Desarrollador de Software enfocado en la mejora continua y la resolución eficiente de problemas. Me destaco por mi organización, comunicación efectiva y capacidad de trabajo en equipo, con el objetivo de aportar soluciones de calidad e innovación tecnológica
-XPERIENCIA / PROYECTOS
 
+
+
+
+SOBRE MI 
+Desarrollador de Software enfocado en la mejora continua y la resolución eficiente de problemas. Me destaco por mi organización, comunicación efectiva y capacidad de trabajo en equipo, con el objetivo de aportar soluciones de calidad e innovación tecnológica
+
+EXPERIENCIA / PROYECTOS
 Full stack
 
 2025 Sistema de Criminalística: Desarrollo de aplicación de escritorio y posterior migración a entorno web para la gestión de casos, registros y consultas.
@@ -13,13 +17,11 @@ Full stack
 
 usuarios y soporte técnico, incluyendo manejo de estados y seguimiento de incidencias.
 
-2026 - Sistema de Gestión Comercial: Aplicación web web para mini mercados con control de stock, gestión de ventas y administración de
-
-usuarios.
+2026 - Sistema de Gestión Comercial: Aplicación web web para mini mercados con control de stock, gestión de ventas y administración de usuarios.
 
 2026 - Sistema con Arduino (Agronomía): Sistema programado en C++ para la optimización del riego en cultivos vegetales.
 
-CONOCIMIENTOS TECNICOS
+##CONOCIMIENTOS TECNICOS##
 
 Lenguajes: Java, HTML5, CSS3, JavaScript, PHP, C++,
 
