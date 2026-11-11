@@ -1,4 +1,4 @@
-SOBRE MÍ
+###SOBRE MÍ###
 
 Desarrollador de Software enfocado en la mejora continua y la resolución eficiente de problemas. Me destaco por mi organización, comunicación efectiva y capacidad de trabajo en equipo, con el objetivo de aportar soluciones de calidad e innovación tecnológica
 XPERIENCIA / PROYECTOS
@@ -29,12 +29,12 @@ Docker.
 
 Metodologías: Programación Orientada a Objetos (POO), Estructurada v SaaS
 
-IDIOMAS
+###IDIOMAS###
 
 Español - Nativo
 
 Inglés - Avanzado
 
-###GitHub Stats
+###GitHub Stats###
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alecdexxter&locale=es)](https://git.io/streak-stats)
