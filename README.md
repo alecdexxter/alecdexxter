@@ -1,4 +1,6 @@
 ###SOBRE MÍ###
+<img width="564" height="544" alt="image" src="https://github.com/user-attachments/assets/e3039d91-7b6f-4f91-9e2f-a90c3bc1ca42" />
+
 
 Desarrollador de Software enfocado en la mejora continua y la resolución eficiente de problemas. Me destaco por mi organización, comunicación efectiva y capacidad de trabajo en equipo, con el objetivo de aportar soluciones de calidad e innovación tecnológica
 XPERIENCIA / PROYECTOS
